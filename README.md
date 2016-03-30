@@ -8,7 +8,8 @@ npm install react-native-rating-star --save
 
 
 #Usage
-```
+
+```js
 import StarRating from 'react-native-rating-star';
 class StarRaingDemo extends Component {
   render() {
