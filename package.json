@@ -1,11 +1,30 @@
 {
-  "name": "StarRaingDemo",
-  "version": "0.0.1",
-  "private": true,
+  "name": "react-native-star-rating",
+  "version": "0.1.0",
+  "description": "A React Native component for generating and displaying interactive star ratings",
+  "main": "StarRating.js",
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start"
+    "test": "make test"
   },
-  "dependencies": {
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuchungui/react-native-star-rating.git"
+  },
+  "keywords": [
+    "react-native",
+    "rating",
+    "star",
+    "star-rating",
+    "react-native-rating-star",
+    "react-native-star-rating"
+  ],
+  "author": "liuchungui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuchungui/react-native-star-rating/issues"
+  },
+  "homepage": "https://github.com/liuchungui/react-native-star-rating#readme",
+  "peerDependencies": {
     "react": "^0.14.8",
     "react-native": "^0.22.2"
   }
