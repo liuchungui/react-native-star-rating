@@ -11,7 +11,7 @@ import React, {
   View
 } from 'react-native';
 
-import StarRating from './StarRating';
+import StarRating from 'react-native-rating-star';
 
 class StarRaingDemo extends Component {
   render() {
