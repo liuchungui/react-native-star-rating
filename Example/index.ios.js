@@ -8,10 +8,12 @@ import React, {
   Component,
   StyleSheet,
   Text,
-  View
+  View,
+  ScrollView
 } from 'react-native';
 
-import StarRating from 'react-native-rating-star';
+// import StarRating from 'react-native-rating-star';
+import StarRating from './StarRating';
 
 class StarRaingDemo extends Component {
   render() {
@@ -63,7 +65,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: 'center',
-    alignItems: 'center',
+    alignItems: 'stretch',
     backgroundColor: '#F5FCFF',
   },
   welcome: {

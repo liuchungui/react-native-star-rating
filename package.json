@@ -1,6 +1,6 @@
 {
   "name": "react-native-rating-star",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A React Native component for generating and displaying interactive star ratings",
   "main": "StarRating.js",
   "devDependencies": {},
