@@ -1,6 +1,6 @@
 {
   "name": "react-native-rating-star",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A React Native component for generating and displaying interactive star ratings",
   "main": "StarRating.js",
   "devDependencies": {},
@@ -24,9 +24,5 @@
   "bugs": {
     "url": "https://github.com/liuchungui/react-native-star-rating/issues"
   },
-  "homepage": "https://github.com/liuchungui/react-native-star-rating#readme",
-  "dependencies": {
-    "react": "^0.14.8",
-    "react-native": "^0.22.2"
-  }
+  "homepage": "https://github.com/liuchungui/react-native-star-rating#readme"
 }
