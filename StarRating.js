@@ -1,9 +1,11 @@
 'use strict';
-import React, { Component, PropTypes } from 'react'
-import {
+
+import React, {Component} from 'react'
+import PropTypes from 'prop-types'
+import  {
   View,
   StyleSheet,
-  Image,
+  Image
 } from 'react-native';
 
 export default class StarRating extends Component {
